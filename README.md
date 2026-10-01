@@ -2,6 +2,7 @@
 A heavily modified fork of nyanBox firmware.
 
 # Features 
+'''text
 1. WiFi
     |
     |--- WiFi Scan
@@ -56,6 +57,7 @@ A heavily modified fork of nyanBox firmware.
     |--- Settings
     |--- About
     |--------------------------
+'''
 
 # Credits
 Forked from nyanBOX by jbohack / Nyan Devices
