@@ -58,6 +58,11 @@ A heavily modified fork of nyanBox firmware.
     |--- About
     |--------------------------
 ```
+# NOTE
+This firmware is paid. 
+Pricing:
+200INR or 5$
 
 # Credits
-Forked from nyanBOX by jbohack / Nyan Devices
+Forked from nyanBOX by jbohack / Nyan Devices.
+Flipper zero ir codes.
