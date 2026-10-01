@@ -1,3 +1,5 @@
+![Predator Main Menu](Black and Neon Green Grunge Streetwear Clothing Logo_20261001_171816_0000.png)
+
 # Predator
 A heavily modified fork of nyanBox firmware.
 
