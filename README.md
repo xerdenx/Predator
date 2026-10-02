@@ -1,7 +1,7 @@
 # Predator
 A heavily modified fork of nyanBox firmware.
 
-![Predator]()
+![Predator](https://github.com/xerdenx/Predator/blob/a156d6627c81486fb561f54af7b523da6112c8ca/Predator_LOGO.png)
 
 
 # Features 
