@@ -1,7 +1,8 @@
-![Predator](https://github.com/xerdenx/Predator/blob/cc785d1ccab42c9d985c2e1ff19205a4cd26edd3/Black%20and%20Neon%20Green%20Grunge%20Streetwear%20Clothing%20Logo_20261001_171816_0000.png)
-
 # Predator
 A heavily modified fork of nyanBox firmware.
+
+![Predator](https://github.com/xerdenx/Predator/blob/cc785d1ccab42c9d985c2e1ff19205a4cd26edd3/Black%20and%20Neon%20Green%20Grunge%20Streetwear%20Clothing%20Logo_20261001_171816_0000.png)
+
 
 # Features 
 ```text
